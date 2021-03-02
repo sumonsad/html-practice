@@ -10,6 +10,8 @@ img{
     width: 100%;
     vertical-align: middle;
 }
+
+/* navigation */
 .logo-holder{
     float:left;
     margin-right: 15px;
@@ -111,6 +113,8 @@ img{
     }
 
 }
+
+/* top section */
 .top-section{
     background: #000;
     color: #fff;
@@ -154,7 +158,8 @@ img{
     color:#fff;
     border:1px solid  #fff;
 }
-/*about*/
+
+/*about section*/
 #about{
     padding-top: 70px;
     padding-bottom:70px;
@@ -192,6 +197,8 @@ img{
         width:50%;
     }
 }
+
+/* services section */
 #services{
     background-color: #f2f2f2;
     padding-top: 70px;
@@ -207,6 +214,7 @@ img{
     color:rgb(102, 95, 95);
 }
 
+/* portfolio */
 #portfolio{
     padding-top:70px;
     padding-bottom:70px;
@@ -250,6 +258,8 @@ img{
     font-size: 30px;
     margin-top: -17px;
 }
+
+/* blog section */
 #blog .blog-item img{
     width:100%;
     height: 160px;
@@ -284,6 +294,7 @@ img{
     padding: 10px 35px;
 }
 
+/* contact section */
 #contact{
     padding-top:70px;
     padding-bottom:70px; 
@@ -318,6 +329,8 @@ input[type="text"], input[type="email"],textarea{
 #contact input[type="submit"]:hover{
     padding: 10px 35px;
 }
+
+/* footer */
 footer{
     background-color: #000;
     color:#bbb;
